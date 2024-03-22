@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdpatil&label=Profile%20views&color=0e75b6&style=flat" alt="yashdpatil" /> </p>
 
-- 💬 Ask me about **java,cpp,javaScript,Html,CSS,Servicenow,ML**
+- 💬 Ask me about **java,cpp,javaScript,Html,CSS,Servicenow,ML,SpringBoot,Hibernet,MS.NET**
 
 - 📫 How to reach me **yashpatil1711@gmail.com or yash.patil.122020@gmail.com**
 
